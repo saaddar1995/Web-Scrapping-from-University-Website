@@ -1,7 +1,7 @@
 # Web-Scrapping-from-University-Website
 Retrieving Data from University Website
 
-Scrapping data from any websites:
+[Scrapping data from any websites:]
 
 from bs4 import BeautifulSoup
 import requests
