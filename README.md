@@ -206,3 +206,5 @@ for x in matching_titles:
   print(info[x]["authors"])
   print(info[x]["year"])
   print("\n")
+  
+  /images/your_image.png
