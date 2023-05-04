@@ -207,4 +207,6 @@ for x in matching_titles:
   print(info[x]["year"])
   print("\n")
   
+  Output:
  ![](https://github.com/saaddar1995/Web-Scrapping-from-University-Website/blob/main/images/11.jpg)
+  ![](https://github.com/saaddar1995/Web-Scrapping-from-University-Website/blob/main/images/11.jpg)
