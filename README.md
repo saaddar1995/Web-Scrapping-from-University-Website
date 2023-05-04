@@ -207,4 +207,4 @@ for x in matching_titles:
   print(info[x]["year"])
   print("\n")
   
-  /images/11.jpg
+  /images/11.jpeg
