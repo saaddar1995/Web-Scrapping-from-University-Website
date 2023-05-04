@@ -207,4 +207,4 @@ for x in matching_titles:
   print(info[x]["year"])
   print("\n")
   
-  /images/11.jpeg
+ ![](https://github.com/saaddar1995/Web-Scrapping-from-University-Website/blob/main/images/11.jpg)
